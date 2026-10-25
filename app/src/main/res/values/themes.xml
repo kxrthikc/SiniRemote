@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SinilinkControl" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Add a solid background color to fix splash screen blinding white flashes -->
+        <item name="android:windowBackground">#F8F8F8</item>
+    </style>
+</resources>
