@@ -1,6 +1,18 @@
+<p align="center">
+  <img src="docs/images/logo.png" width="128" height="128" alt="SiniRemote Logo" />
+</p>
+
 # SiniRemote
 
 **SiniRemote** is a Material 3 Expressive Android application designed to control Sinilink Bluetooth Audio Receivers and Amplifiers (XY-AP15H, XY-C50H, XY-AP50H, etc.) with persistent background connectivity, dynamic media themes, and tactile physics controls.
+
+---
+
+## Hero Overview
+
+<p align="center">
+  <img src="docs/images/screenshot_hero.png" width="40%" alt="SiniRemote Hero Overview" />
+</p>
 
 ---
 
@@ -13,6 +25,18 @@ flowchart LR
     A[Music Source<br>Phone / PC / Tablet] -->|Bluetooth Audio| C[Sinilink Amplifier]
     B[SiniRemote App<br>Android Phone] -->|BLE Commands| C
 ```
+
+---
+
+## Screenshots
+
+| Main Controls | Now Playing Widget |
+| :---: | :---: |
+| <img src="docs/images/screenshot_main.png" width="260" alt="Main Controls" /> | <img src="docs/images/screenshot_now_playing.png" width="260" alt="Now Playing" /> |
+
+| Full Screen Player | Settings Dialog |
+| :---: | :---: |
+| <img src="docs/images/screenshot_full_screen.png" width="260" alt="Full Screen Player" /> | <img src="docs/images/screenshot_settings.png" width="260" alt="Settings Dialog" /> |
 
 ---
 
