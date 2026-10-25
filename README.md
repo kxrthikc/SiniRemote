@@ -4,7 +4,7 @@
 
 # SiniRemote
 
-**SiniRemote** is a Material 3 Expressive Android application designed to control Sinilink Bluetooth Audio Receivers and Amplifiers (XY-AP15H, XY-C50H, XY-AP50H, etc.) with persistent background connectivity, dynamic media themes, and tactile physics controls.
+**SiniRemote** is a Material 3 Expressive Android application designed to control Sinilink Bluetooth Audio Receivers and Amplifiers (XY-C50L, XY-AP15H, XY-C50H, XY-AP50H, etc.) (**Note: Only Tested for XY-C50L**) with persistent background connectivity, dynamic media themes, and tactile physics controls.
 
 ---
 
